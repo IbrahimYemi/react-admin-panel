@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+# Getting Started with The Admin App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Libraries
 
-In the project directory, you can run:
+In the project directory, you will see some amazing libraries that was used as tools to help in the production of the application:
 
-### `npm start`
+### `npm rechart`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+This library was used in the project for my analytics sections. It is a powerful and a easy to use liberary, that i used in making my piechat, linegraph, and the doughnut like chart.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### `material UI`
 
-### `npm test`
+This amazing resource helped me in overcoming the hassle of css with its already customized components and elements. It helped me focus more on the logic more than the designing.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### `react redux toolkit`
 
-### `npm run build`
+Stage management has been one of the issues to deal with in a react application and for code reuseability and neatness probs drilling is not of best practices. I love react context API alos, but the simplicity and effectiveness that comes with using redux toolkit is so amazing that i just have to use the library.
+It is the library i use for my state transfer in the project.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Challenges and how they were tackled
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This project was inspired because i wanted to show my abilities to build applications using advance modern tools, being someone who loves generic css, I  hvae been comfortable with SCSS, Bootstrap, and Tailwind scss. I just had to challenge myself.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### `Balancing with Material UI`
 
-### `npm run eject`
+I am a developer who priorise my users experiwnce as they are using my applications or websites, So with that in mind, I always build together from the start, the mobile view. Alot of users are comfortable quickly going through websites and applications on their mobiles than the Desktop or Laptop, So I design with a Desktop view and customise the mobile view along.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I had some challenges with the library because of its rigidity or I should say my inadequate experience using the library on my projects, I am cofortable building components but buildiuilding isn't just everything. I need to combine those components into a view page for the UI to render, making it responsive was a challenge I was able to solve thanks to stackoverflow and the popular openai application.
